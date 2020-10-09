@@ -1,5 +1,3 @@
-
-// http://219.216.96.176/assignment/programList.jsp?proNum=1&courseID=2&assignID=133
 import java.util.Scanner;
 
 class Main {
